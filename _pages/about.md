@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a researcher on Vehicle System Dynamics and Control. My research interest is mainly on By-Wire-Chassis, Integrated Vehicle Dynamics Control, and Automated Driving.
+Hi! I am a researcher on Vehicle System Dynamics and Control. My research interest is mainly on By-Wire-Chassis, Integrated Vehicle Dynamics Control, and Automated Driving.
