@@ -86,6 +86,7 @@ author:
   avatar           : "qingweilau.png"
   bio              : "Researcher on Vehicle System Dynamics and Control"
   location         : "Shanghai, P.R.China"
+  email            : "lqwei7@sjtu.edu.cn"
   employer         :
   pubmed           :
   googlescholar    : 
@@ -115,7 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
